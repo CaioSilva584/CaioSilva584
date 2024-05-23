@@ -6,7 +6,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando crescimen
 
 ## 💻 Habilidades
 
-[<img src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000" class="badges">](https://docs.oracle.com/database/121/LNPLS/toc.htm)
+[<img src="https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000"
+ style="border-radius: 10px; transition-duration: .28s; transition-property: box-shadow, transform, opacity; transition-timing-function: cubic-bezier(.4,0,.2,1); opacity: 1;"
+ onmouseover="this.style.opacity='0.7';"
+ onmouseout="this.style.opacity='1';" class="badges">](https://docs.oracle.com/database/121/LNPLS/toc.htm)
 
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" class="badges">](https://git-scm.com/docs/git/pt_BR)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" class="badges">](https://docs.github.com/pt)
@@ -44,18 +47,4 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando crescimen
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CaioSilva584&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioSilva584&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<style>
 
-.badges{
-    border-radius: 10px;
-    transition-duration: .28s;
-    transition-property: box-shadow, transform, opacity;
-    transition-timing-function: cubic-bezier(.4,0,.2,1);
-}
-
-.badges:hover {
-  opacity: 0.7;
-}
-
-
-</style>
