@@ -2,7 +2,7 @@
 
 ## 📚 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando crescimento profissional, sempre aprendendo e me adaptando para superar desafios.
+Sou recém-formado em Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba. Tenho proficiência em Java, Spring e Bancos de Dados Relacionais uma forte paixão por desenvolver soluções de software eficientes e escaláveis.
 
 ## 💻 Habilidades
 
@@ -14,15 +14,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando crescimen
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" class="badges">](https://git-scm.com/docs/git/pt_BR)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" class="badges">](https://docs.github.com/pt)
 
+[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" class="badges">](https://docs.oracle.com/en/java/)
+[<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" class="badges">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+
 [<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" class="badges">](https://support.microsoft.com/pt-br/excel)
+[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" class="badges">](https://docs.python.org/pt-br/3/tutorial/)
 
 
 ## 📖 Estou aprendendo
-
-[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" class="badges">](https://docs.python.org/pt-br/3/tutorial/)
-
-[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" class="badges">](https://docs.oracle.com/en/java/)
-[<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" class="badges">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="badges">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="badges">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
