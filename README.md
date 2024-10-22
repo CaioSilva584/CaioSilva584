@@ -2,7 +2,7 @@
 
 ## 📚 Sobre mim
 
-Sou recém-formado em Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba. Tenho proficiência em Java, Spring e Bancos de Dados Relacionais uma forte paixão por desenvolver soluções de software eficientes e escaláveis.
+Sou recém-formado em Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba. Tenho proficiência em Java, Spring e Bancos de Dados Relacionais e uma forte paixão por desenvolver soluções de software eficientes e escaláveis.
 
 ## 💻 Habilidades
 
